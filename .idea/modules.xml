@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SplitActionBar.iml" filepath="$PROJECT_DIR$/SplitActionBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpd/rpd.iml" filepath="$PROJECT_DIR$/rpd/rpd.iml" />
+    </modules>
+  </component>
+</project>
+
